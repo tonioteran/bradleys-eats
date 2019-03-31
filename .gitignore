@@ -62,4 +62,8 @@ build/
 ###########
 *.blend
 
+# Google Suite #
+################
+client_secret.json
+
 
