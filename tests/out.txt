@@ -1,0 +1,1020 @@
+<tr class="row100 body">
+<td class="cell100 column1">03/29/2019</td>
+<td class="cell100 column2">Radegast Beer Hall</td>
+<td class="cell100 column3">German</td>
+<td class="cell100 column4">Williamsburg</td>
+<td class="cell100 column5">Spaetzle 8
+Latke 6.5
+Goulash 6
+Pierogi 7.5</td>
+<td class="cell100 column6">La chouffe came too warm</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/28/2019</td>
+<td class="cell100 column2">Empire Diner</td>
+<td class="cell100 column3">American</td>
+<td class="cell100 column4">Chelsea</td>
+<td class="cell100 column5">Shisito peppers 7
+Burger 7
+Salmon 6.5</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/25/2019</td>
+<td class="cell100 column2">Dim Sum VIP</td>
+<td class="cell100 column3">Dim Sum</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Rice in lotus 5
+Vegetable dumpling 6
+Har gow 6.5
+Shrimp and chive 6</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/24/2019</td>
+<td class="cell100 column2">Lantern</td>
+<td class="cell100 column3">Thai</td>
+<td class="cell100 column4">Brooklyn Heights</td>
+<td class="cell100 column5">Branzino Fish with Ginger and Scallion 5 
+Rama dish with Shrimp 5.5</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/23/2019</td>
+<td class="cell100 column2">Aziza 7</td>
+<td class="cell100 column3">Uzbeki</td>
+<td class="cell100 column4">Brighton Beach</td>
+<td class="cell100 column5">Mantes 7
+Beef stroganoff 6
+Roasted potatoes 8
+Salmon 2</td>
+<td class="cell100 column6">Salmon tasted like butane</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/17/2019</td>
+<td class="cell100 column2">Ba Xuyen</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Sunset Park</td>
+<td class="cell100 column5">Banh Mi Dac Biet (#1) 9</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/16/2019</td>
+<td class="cell100 column2">Hello Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">West Village</td>
+<td class="cell100 column5">Canh Chu Ca 8</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/14/2019</td>
+<td class="cell100 column2">Sushi Kawa</td>
+<td class="cell100 column3">Sushi</td>
+<td class="cell100 column4">West Village</td>
+<td class="cell100 column5">Tempura Udon 6</td>
+<td class="cell100 column6">Broth too salty, and batter too hard</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/13/2019</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Bun Rieu 8.5</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/10/2019</td>
+<td class="cell100 column2">Sushi Yasaka</td>
+<td class="cell100 column3">Sushi</td>
+<td class="cell100 column4">Upper West Side</td>
+<td class="cell100 column5">Sushi Deluxe 7.5
+Agedashi dofu 5.5</td>
+<td class="cell100 column6">Agedashi was too tough. Good negihama maki, despite the sloppy rolling.</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/10/2019</td>
+<td class="cell100 column2">Dumpling Galaxy</td>
+<td class="cell100 column3">Dumplings</td>
+<td class="cell100 column4">Flushing</td>
+<td class="cell100 column5">Shrimp dumpling 8
+Pork and chive 7.5
+Xia Long Bao 8
+Other Pork 8</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">03/09/2019</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Bun rieu 9
+Banh Xeo 7
+Goi Cuon 6
+Cha Gio 9.5</td>
+<td class="cell100 column6">Goi cuon dipping sauce is bad and the rolls where too fat</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/24/2019</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Bun cha gio thit nuong 7</td>
+<td class="cell100 column6">Pork too salty and thick</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/24/2019</td>
+<td class="cell100 column2">Bunna Cafe</td>
+<td class="cell100 column3">Ethiopian</td>
+<td class="cell100 column4">Bushwick</td>
+<td class="cell100 column5">Combination plate 6
+Coffee 7</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/23/2019</td>
+<td class="cell100 column2">Kanoyama</td>
+<td class="cell100 column3">Sushi</td>
+<td class="cell100 column4">East Village</td>
+<td class="cell100 column5">Sushi special 8</td>
+<td class="cell100 column6">Michelin guide one star</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/23/2019</td>
+<td class="cell100 column2">Hello Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">West Village</td>
+<td class="cell100 column5">Can Chu Ca 8
+Cha Gio 7.5
+Banh Xeo 7.5</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/22/2019</td>
+<td class="cell100 column2">Yuka</td>
+<td class="cell100 column3">Sushi</td>
+<td class="cell100 column4">Upper East Side</td>
+<td class="cell100 column5">6.5</td>
+<td class="cell100 column6">All you can eat</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/18/2019</td>
+<td class="cell100 column2">Osamil</td>
+<td class="cell100 column3">Korean</td>
+<td class="cell100 column4">Koreatown</td>
+<td class="cell100 column5">Sweet potato fries 9
+Soy and garlic wings 9
+Fried rice 7</td>
+<td class="cell100 column6">Fried rice was too greasy</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/18/2019</td>
+<td class="cell100 column2">Grey Lady</td>
+<td class="cell100 column3">American</td>
+<td class="cell100 column4"></td>
+<td class="cell100 column5">Fish (fish and chips) 6
+Chip 7
+Oysters 6.5</td>
+<td class="cell100 column6">Met Andrew M. Did not honor happy hour due to holiday</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/18/2019</td>
+<td class="cell100 column2">Iron Chef Sushi</td>
+<td class="cell100 column3">Sushi</td>
+<td class="cell100 column4"></td>
+<td class="cell100 column5">Avocado maki 7
+Spicy tuna and hamachi 7
+Spicy eel and crab 6.5
+Spicy shrimp and crab 7</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/17/2019</td>
+<td class="cell100 column2">Great NY Noodle</td>
+<td class="cell100 column3">Chinese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Shrimp dumplings in noodle soup 7
+Peashoots 8
+Pork Congee 6
+Pork chop and rice 7</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/17/2019</td>
+<td class="cell100 column2">Omar Khayyam</td>
+<td class="cell100 column3">Russian</td>
+<td class="cell100 column4">Brighton Beach</td>
+<td class="cell100 column5">Borscht 7
+Dumplings 8.5
+Pierogi with potatoes 7
+Beef Stroganoff 7</td>
+<td class="cell100 column6">Lively, authentic atmosphere</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/17/2019</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Bo Kho Broth 9
+Bo Kho Potatoes 5
+Bo Kho Carrots 6
+Bun Rieu 8.5
+Cha Gio 10
+Bun Bo Hue 8</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/17/2019</td>
+<td class="cell100 column2">Nom Wah Tea Parlor</td>
+<td class="cell100 column3">Dumplings</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Cheung Fun Shrimp 6.5
+Cheung Fun Beef 5</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/16/2019</td>
+<td class="cell100 column2">YaYa</td>
+<td class="cell100 column3">Japanese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Shrimp tempura onigiri 8</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/16/2019</td>
+<td class="cell100 column2">Hello Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">West Village</td>
+<td class="cell100 column5">Cha Gio 7.5</td>
+<td class="cell100 column6">No longer denoting scores out of 10</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/12/2019</td>
+<td class="cell100 column2">Co Ba</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Chelsea</td>
+<td class="cell100 column5">Pho Ga 7.5/10
+Cha Gio 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/11/2019</td>
+<td class="cell100 column2">Co Ba</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Chelsea</td>
+<td class="cell100 column5">Pho Ga 7.5/10
+Cha Gio 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/10/2019</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Bun Rieu 9/10
+Goi Cuon 6.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/10/2019</td>
+<td class="cell100 column2">Hello Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">West Village</td>
+<td class="cell100 column5">Bo Kho 6.5/10
+Bun Bo Hue 7/10
+Canh Chu Ca 7.5/10
+Cha Gio 8/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/09/2019</td>
+<td class="cell100 column2">Rosas Pizza</td>
+<td class="cell100 column3">Pizza</td>
+<td class="cell100 column4">Williamsburg</td>
+<td class="cell100 column5">Grandma 8/10
+Ravioli 6/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/09/2019</td>
+<td class="cell100 column2">Xi'an Famous Foods</td>
+<td class="cell100 column3">Chinese</td>
+<td class="cell100 column4">Midtown</td>
+<td class="cell100 column5">Pork stewed noodles 7.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/08/2019</td>
+<td class="cell100 column2">Wonton Noodle Garden</td>
+<td class="cell100 column3">Chinese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Wonton Noodle Soup 7.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/06/2019</td>
+<td class="cell100 column2">Asian Jewel Seafood</td>
+<td class="cell100 column3">Dumplings</td>
+<td class="cell100 column4">Flushing</td>
+<td class="cell100 column5">Jumbo shrimp with Giner 8/10
+Chilean Sea Bass 6/10
+Shrimp dumpling 7/10
+Siu Mai 5.5/10
+</td>
+<td class="cell100 column6">For Chinese New Year</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/01/2019</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Banh Xeo 7/10
+Bun Bo Hue 9/10
+Cha Gio 8.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/01/2019</td>
+<td class="cell100 column2">Kushi Japanese</td>
+<td class="cell100 column3">Japanese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Beer 8/10
+Calamari 5/10
+Avocado Maki 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">02/01/2019</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Bun Rieu 8/10
+Banh Mi 6.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/27/2019</td>
+<td class="cell100 column2">Little Saigon Pearl </td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Cha Gio 9/10
+Bun Rieu 8/10
+Banh Xeo 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/27/2019</td>
+<td class="cell100 column2">Wonton Noodle Garden</td>
+<td class="cell100 column3">Chinese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Siu Mai 7/10
+Wonton Noodle Soup 8/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/27/2019</td>
+<td class="cell100 column2">Dominque Ansel Bakery</td>
+<td class="cell100 column3">Bakery</td>
+<td class="cell100 column4">West Village</td>
+<td class="cell100 column5">Croissant 6.5/10
+Kougin Amann 8/10
+Pain au Chocola 7.5</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/26/2019</td>
+<td class="cell100 column2">Osamil</td>
+<td class="cell100 column3">Korean</td>
+<td class="cell100 column4">Korea Town</td>
+<td class="cell100 column5">Pork Shank 6.5
+Sweet Potato Fries 9.5/10
+Soy & Garlic Wings 9/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/26/2019</td>
+<td class="cell100 column2">Jack's Wife Freda</td>
+<td class="cell100 column3">American</td>
+<td class="cell100 column4">West Village</td>
+<td class="cell100 column5">Green Shakshuka 5.5/10
+Waffe 6/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/26/2019</td>
+<td class="cell100 column2">Loyal</td>
+<td class="cell100 column3">Italian</td>
+<td class="cell100 column4">West Village</td>
+<td class="cell100 column5">French Toast 7/10
+Rigatoni 6/10</td>
+<td class="cell100 column6">Rigatoni was too salty, not al dente.</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/25/2019</td>
+<td class="cell100 column2">Momofuku Saam</td>
+<td class="cell100 column3">Japanese</td>
+<td class="cell100 column4">East Village</td>
+<td class="cell100 column5">Pork Buns 7/10
+Ribs 7.5/10</td>
+<td class="cell100 column6">Temperature of the buns too low and not pliable enough</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/23/2019</td>
+<td class="cell100 column2">Co Ba</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Chelsea</td>
+<td class="cell100 column5">Pho Ga 7/10
+Bo Cuon 5/10</td>
+<td class="cell100 column6">Bo Cuon way too smoky</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/23/2019</td>
+<td class="cell100 column2">Chop Shop</td>
+<td class="cell100 column3">Thai</td>
+<td class="cell100 column4">Hudson Yards</td>
+<td class="cell100 column5">Pad See Ew 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/22/2019</td>
+<td class="cell100 column2">Co Ba</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Chelsea</td>
+<td class="cell100 column5">Pho Ga 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/22/2019</td>
+<td class="cell100 column2">Chop Shop</td>
+<td class="cell100 column3">Thai</td>
+<td class="cell100 column4">Hudson Yards</td>
+<td class="cell100 column5">Pad See Ew 7.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/21/2019</td>
+<td class="cell100 column2">Nan Xiang</td>
+<td class="cell100 column3">Dumplings</td>
+<td class="cell100 column4">Flushing</td>
+<td class="cell100 column5">Fried pork dumplings 7.5/10
+Rice filled dumpling 6.5/10
+Steamed pork and cabbage dumpling 7.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/21/2019</td>
+<td class="cell100 column2">White Bear</td>
+<td class="cell100 column3">Dumplings</td>
+<td class="cell100 column4">Flushing</td>
+<td class="cell100 column5">Wonton Noodle Soup 7.5/10</td>
+<td class="cell100 column6">Broth temperature too low</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/17/2019</td>
+<td class="cell100 column2">Hello Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">West Village </td>
+<td class="cell100 column5">Buno Bo Hue 7/10
+Goi Cuon 6.5/10
+Banh Xeo 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/17/2019</td>
+<td class="cell100 column2">Chop Shop</td>
+<td class="cell100 column3">Thai</td>
+<td class="cell100 column4">Hudson Yards</td>
+<td class="cell100 column5">Pad See Ew 7.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/16/2019</td>
+<td class="cell100 column2">Wonton Noodle Garden</td>
+<td class="cell100 column3">Chinese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5"></td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/16/2019</td>
+<td class="cell100 column2">Chop Shop</td>
+<td class="cell100 column3">Thai</td>
+<td class="cell100 column4">Hudson Yard</td>
+<td class="cell100 column5">Pad See Ew 7/10</td>
+<td class="cell100 column6">Noodles a bit too soft</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/15/2019</td>
+<td class="cell100 column2">Hello Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">West Village </td>
+<td class="cell100 column5">Bun Bo Hue 7/10
+Cha Gio 7.5/10</td>
+<td class="cell100 column6">Fancy pork too soft and broth too dark. Great lettuce accompanies the cha gio.</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/13/2019</td>
+<td class="cell100 column2">YaYa</td>
+<td class="cell100 column3">Japanese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Shrimp Onigiri 8/10
+Shrimp+Crab Onigirl 8/10
+Milk tea 6.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/13/2019</td>
+<td class="cell100 column2">Wonton Noodle Garden</td>
+<td class="cell100 column3">Chinese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Wonton Shanghai Soup 8/10
+Siu Mai 7/10
+Wonton Cantonese Soup 8/10
+Vegtables 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/12/2019</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Bun Rieu: 9/10</td>
+<td class="cell100 column6">Little spicier than usual</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/12/2019</td>
+<td class="cell100 column2">Thanh Da</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Sunset Park</td>
+<td class="cell100 column5">Banh Xeo 8/10</td>
+<td class="cell100 column6">Incredibly thin crepe and great flavors. Shrimp tail on.</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/12/2019</td>
+<td class="cell100 column2">Ba Xuyen</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Sunset Park</td>
+<td class="cell100 column5">Banh Mi Dac Biet 8/5/10</td>
+<td class="cell100 column6">Bread a little less fresh than usual</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/12/2019</td>
+<td class="cell100 column2">Lucy’s Kitchen</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bushwick</td>
+<td class="cell100 column5">Pho Ga 6/10</td>
+<td class="cell100 column6">Broth overpowering and unbalanced. Chicken over cooked. Cacophonous flavor profile  </td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/11/2019</td>
+<td class="cell100 column2">H.K. Cafe</td>
+<td class="cell100 column3">Chinese</td>
+<td class="cell100 column4">Flushing</td>
+<td class="cell100 column5">Siu Mai 7.5/10
+Wontons 9/10
+Cheung Fun 6/10
+Beef ribs over rice 6/10</td>
+<td class="cell100 column6">No meat with cheung fun</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/09/2019</td>
+<td class="cell100 column2">Sushi West</td>
+<td class="cell100 column3">Sushi</td>
+<td class="cell100 column4">Greenwich</td>
+<td class="cell100 column5">Tuna maki 6/10
+Yellowtail maki 6/10
+California maki 6/10</td>
+<td class="cell100 column6">Great value $12 for the maki combo</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/09/2019</td>
+<td class="cell100 column2">Chop Shop</td>
+<td class="cell100 column3">Thai</td>
+<td class="cell100 column4">Hudson Yards</td>
+<td class="cell100 column5">Pad See Ew 8/10</td>
+<td class="cell100 column6">Solid as always</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/08/2019</td>
+<td class="cell100 column2">Co Ba</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Chelsea</td>
+<td class="cell100 column5">Cha Gio 8/10
+Pho Ga 7.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/08/2019</td>
+<td class="cell100 column2">Jun-Men Raman</td>
+<td class="cell100 column3">Japanese</td>
+<td class="cell100 column4">Hudson Yards</td>
+<td class="cell100 column5">Spicy Pork Ramen 7.5/10</td>
+<td class="cell100 column6">Soft-boiled egg temperature too low</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/07/2019</td>
+<td class="cell100 column2">Thai V Express</td>
+<td class="cell100 column3">Thai</td>
+<td class="cell100 column4">Madison Square Park</td>
+<td class="cell100 column5">Pad Kee Mao 6/10</td>
+<td class="cell100 column6">Delivery order. Extreme compliance with less sauce, less oil request [retry]</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">01/06/2019</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Bo Kho 9/10
+Ca Lan Bot 6/10</td>
+<td class="cell100 column6">Amazing flavors from Bo Kho, potatoes slightly undercooked and insipid
+Fish was too dry and accompanied by mediocre bottled sweet-sour sauce</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/15/2018</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Ca Kho To 7/10
+Banh Xeo 7.5/10
+Bun Rieu 9/10
+Cha Gio 9.5/10
+Goi Cuon 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/13/2018</td>
+<td class="cell100 column2">YaYa</td>
+<td class="cell100 column3">Japanese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Shrimp Onigiri 8/10</td>
+<td class="cell100 column6">Freshly-prepared onigiri</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/13</td>
+<td class="cell100 column2">Wonton Garden</td>
+<td class="cell100 column3">Chinese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Wonton Shanghai Soup 8/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/10</td>
+<td class="cell100 column2">Trattoria Pesce Pasta</td>
+<td class="cell100 column3">Italian</td>
+<td class="cell100 column4">Greenwich</td>
+<td class="cell100 column5">Bread 5/10
+Olive Oil 6/10
+Ravioli 6/10</td>
+<td class="cell100 column6">Dry bread
+Insipid olive oil
+Sauce too sour</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/9</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Nuoc Cham 10/10
+Cha Gio 9/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/9</td>
+<td class="cell100 column2">Pho Tay Ho 86</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Goi Cuon 7.5/10
+Bun Bo Hue 8/10</td>
+<td class="cell100 column6">No pork in the goi cuon, despite being listed on menu</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/8</td>
+<td class="cell100 column2">Rafele</td>
+<td class="cell100 column3">Italian</td>
+<td class="cell100 column4">Greenwich</td>
+<td class="cell100 column5">Schizetto 9/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/8</td>
+<td class="cell100 column2">Ba Xuyen</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Sunset Park, Brooklyn</td>
+<td class="cell100 column5">Banh Mi Dac Biet 8.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/8</td>
+<td class="cell100 column2">Baker and Co</td>
+<td class="cell100 column3">American</td>
+<td class="cell100 column4">Greenwich</td>
+<td class="cell100 column5">Nutella french toast 8/10
+Two-egg dish 7/10
+Granola 7/5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/7</td>
+<td class="cell100 column2">Osamil</td>
+<td class="cell100 column3">Korean</td>
+<td class="cell100 column4">Koreatown</td>
+<td class="cell100 column5">Sweet potato fries 9.5/10
+Bulgogi 6/10
+Short ribs 7/10</td>
+<td class="cell100 column6">Best sweet potato fries I've ever had</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1"></td>
+<td class="cell100 column2">Bep Ga</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Pho Ga 8/10</td>
+<td class="cell100 column6">Met Khoi Vinh</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/2</td>
+<td class="cell100 column2">District Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Astoria</td>
+<td class="cell100 column5">Cha Gio 7/10
+Goi Cuon 7/10
+Banh Xeo 7/10
+Banh Cuon 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/2</td>
+<td class="cell100 column2">Ba Xuyen</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Sunset Park, Brooklyn</td>
+<td class="cell100 column5">Banh Mi Dac Biet 9/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/1</td>
+<td class="cell100 column2">Hello Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Greenwich</td>
+<td class="cell100 column5"></td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">12/1</td>
+<td class="cell100 column2">Little Saigon Pearl</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Bensonhurst</td>
+<td class="cell100 column5">Banh Xeo 8/10
+Bun Rieu 8/10</td>
+<td class="cell100 column6">Banh Xeo shrimp only
+Bun rieu flavor lighter than YYS; similar to mom's</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Bia</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Long Island City</td>
+<td class="cell100 column5">Goi Cuon 4/10
+Pho Ga 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Hello Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">West Village</td>
+<td class="cell100 column5">Banh Xeo 7.5/10
+Bun Thit Nuong 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Uncle Boons</td>
+<td class="cell100 column3"></td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Multiple dishes 6.5/10</td>
+<td class="cell100 column6">Overpriced and not great</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Hello Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">West Village</td>
+<td class="cell100 column5">Bun Bo Hue 7.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Pho Grand</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Pho Ga 5/10</td>
+<td class="cell100 column6">Sliced chicken breast and superfluous vegetables added</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Banh Mi Place</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4"></td>
+<td class="cell100 column5">Banh Mi Special 4/10</td>
+<td class="cell100 column6">Ground pork, yuck</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Birds of a feather</td>
+<td class="cell100 column3">Chinese</td>
+<td class="cell100 column4">Williamsburg</td>
+<td class="cell100 column5">Szechuan Beef Noodle Soup 7.5/10
+Pork Dumpling 6.5/10
+Shrimp Dumpling 7/10</td>
+<td class="cell100 column6">Very oily</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Dead Rabbit</td>
+<td class="cell100 column3">Cocktail Bar</td>
+<td class="cell100 column4">Financial District</td>
+<td class="cell100 column5">Cocktails 10/10</td>
+<td class="cell100 column6">Best cocktail bar I've frequented in NYC</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Osamil</td>
+<td class="cell100 column3">Korea</td>
+<td class="cell100 column4">Koreatown</td>
+<td class="cell100 column5">Garlic/Sesame Wings 9/10
+Sweet potato fries 10/10
+Whole chicken 7.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Thai Son</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4"></td>
+<td class="cell100 column5">Rau Muon 8/10
+Goi Cuon 7.5/10
+Bun Bo Hue 5/10
+Mussels with Curry 3/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Wonton Noodle Garden</td>
+<td class="cell100 column3">Chinese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Wonton Noodle Soup 8/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Udon West</td>
+<td class="cell100 column3">Japanese</td>
+<td class="cell100 column4"></td>
+<td class="cell100 column5">TBD</td>
+<td class="cell100 column6">Late-night spot</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Sugarcane Raw Fish Bar</td>
+<td class="cell100 column3">Mixed</td>
+<td class="cell100 column4">DUMBO</td>
+<td class="cell100 column5">Overall 7/10</td>
+<td class="cell100 column6">Thanksgiving-day meal</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Sushi of Gari Upper East</td>
+<td class="cell100 column3">Sushi</td>
+<td class="cell100 column4">Upper East Side</td>
+<td class="cell100 column5">Omakase 8/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Madame Vo</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">East village</td>
+<td class="cell100 column5">Banh Xeo 6.5/10
+Goi Cuon 6.5/10
+Garlic Noodles 6/10
+Bun Bo Hue 7.5/10</td>
+<td class="cell100 column6">Small shrimp in Banh Xeo, crepe not crisp</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Num Pang</td>
+<td class="cell100 column3">Southeast Asian</td>
+<td class="cell100 column4">East village</td>
+<td class="cell100 column5">Fish Sandwich 7.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Le Singe Vert</td>
+<td class="cell100 column3">French</td>
+<td class="cell100 column4">West village</td>
+<td class="cell100 column5">Overall 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Hello Saigon</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Greenwich Village</td>
+<td class="cell100 column5">Goi Cuon 7/10
+Bun Bo Hue 8/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">New Thanh Hoai</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Jersey</td>
+<td class="cell100 column5">Collection 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Ba Xuyen</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Sunset Park</td>
+<td class="cell100 column5">Banh Mi Dac Biet 8.5/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Tanoshi</td>
+<td class="cell100 column3">Sushi</td>
+<td class="cell100 column4">Upper East Side</td>
+<td class="cell100 column5">Omakase 9/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Aya</td>
+<td class="cell100 column3">Sushi</td>
+<td class="cell100 column4"></td>
+<td class="cell100 column5">-</td>
+<td class="cell100 column6">Casual, decent food</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Cyclo</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Long Island City</td>
+<td class="cell100 column5">Pho Ga 7/10</td>
+<td class="cell100 column6">Too many noodles and insufficient broth</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Pho Bang</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Flushing</td>
+<td class="cell100 column5">Pho Ga 5/10
+Banh Cuon 8/10
+Goi Cuon 7/10</td>
+<td class="cell100 column6">Chicken was grilled!</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Nha Trang</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4">Chinatown</td>
+<td class="cell100 column5">Bad</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Brunettis</td>
+<td class="cell100 column3">Italian</td>
+<td class="cell100 column4"></td>
+<td class="cell100 column5">-</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Rustic Table</td>
+<td class="cell100 column3">American</td>
+<td class="cell100 column4">Hells Kitchen</td>
+<td class="cell100 column5">Croissant 9.5/10
+Quiche 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Sao Mai</td>
+<td class="cell100 column3">Vietnamese</td>
+<td class="cell100 column4"></td>
+<td class="cell100 column5">Goi Cuon 6.5/10
+Goi Ngo Sen Tom Thit 7/10
+Canh Chu Ca 6/10</td>
+<td class="cell100 column6">Canh Chua too fishy and sweet</td>
+</tr>
+<tr class="row100 body">
+<td class="cell100 column1">TBD</td>
+<td class="cell100 column2">Market Table</td>
+<td class="cell100 column3">American</td>
+<td class="cell100 column4">Greenwich</td>
+<td class="cell100 column5">Old Fashioned 7/10</td>
+<td class="cell100 column6"></td>
+</tr>
+
